@@ -40,3 +40,7 @@ a {
     color-scheme: dark;
   }
 }
+
+h1{
+  font-family: var(----departure-mono);
+}
