@@ -4,6 +4,8 @@ Convert files of any type to suitable formats directly on your device. Powered b
 
 Convert documents, images, audio, and more—all within your browser, using your own device's power. The perfect tool for offline file conversion, protecting your data at every step.
 
+[Figma Design](https://www.figma.com/design/2hbLoZkue7gjlCQDG0EPOP/Convert-Files?node-id=1-2&t=UqQ6IuSSXE7DAty3-1)
+
 ## Features:
 - Convert a wide range of file types: documents, images, audio, video, and more.
 - Secure and private: no file uploads to external servers.
